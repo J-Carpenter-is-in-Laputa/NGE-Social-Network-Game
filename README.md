@@ -1,8 +1,8 @@
 # NGE-Social-Network-Game
 - The main loop allows you to interact with each character
 - In the future I plan to add more characters and gameplay
-- ASCII art for rei by ch1x0r, Asuka anonomys, and NERV logo by penguinerd.
-- The rest of the art/design was done on my own. 
+- ASCII art for Rei by ch1x0r, Asuka anonymous, and NERV logo by penguinerd.
+- The rest of the art/design was edited or done on my own. 
 
 <img
     align="center"
